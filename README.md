@@ -25,11 +25,12 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar000)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadumar000&theme=dark&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumar000&theme=github_dark) 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumar000&show_icons=true&locale=en" alt="muhammadumar000" /></p>
-<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar000&" alt="muhammadumar000" /></p>
