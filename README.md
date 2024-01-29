@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MuhammadUmar</h1>
-<h3 align="center">A passionate Web developer from Pakistan, eager to learn new technologies.</h3>
+<h3 align="center">A passionate Computer Engineer from Pakistan, eager to learn new technologies.</h3>
 
 
 
